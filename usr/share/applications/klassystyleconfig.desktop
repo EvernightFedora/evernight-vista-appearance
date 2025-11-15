@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+NoDisplay=true
+X-KDE-AliasFor=systemsettings
+Exec=kcmshell6 klassystyleconfig
+Icon=preferences-desktop-theme
+Name=Klassy: Application Style

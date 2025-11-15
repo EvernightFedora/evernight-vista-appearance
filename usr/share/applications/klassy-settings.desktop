@@ -1,0 +1,19 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Utility
+Comment=设置您的窗口样式
+Exec=klassy-settings %f
+GenericName=设置您的窗口样式
+Icon=tweaks-app
+Name=Klassy Settings（英文）
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+TryExec=klassy-settings
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Keywords=klassy,window
